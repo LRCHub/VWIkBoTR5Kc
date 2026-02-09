@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Blessing",
+  "base_artist": "Omoinotake",
+  "createdAt": "2026-02-09T21:16:02.735003Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Blessing It -remix (feat. Substantial & Pase Rock from Five Deez)",
+      "artist": "Nujabes feat. Substantial & Pase Rock",
+      "has_synced": false,
+      "path": "select/01_Blessing_It_-remix_(feat._Substantial_&_Pase_Rock_from_Five_Deez)_Nujabes_feat._Substantial_&_Pase_Rock.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Time (People Theatre's Blessing Mix)",
+      "artist": "Parralox",
+      "has_synced": false,
+      "path": "select/02_Time_(People_Theatre's_Blessing_Mix)_Parralox.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The Warm-Body (A Blessing & Removal)",
+      "artist": "Fire-Toolz",
+      "has_synced": false,
+      "path": "select/03_The_Warm-Body_(A_Blessing_&_Removal)_Fire-Toolz.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Blessing",
+      "artist": "Motörhead",
+      "has_synced": true,
+      "path": "select/04_Blessing_Motörhead.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Blessing In Disguise",
+      "artist": "Edguy",
+      "has_synced": true,
+      "path": "select/05_Blessing_In_Disguise_Edguy.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Sadness Is a Blessing",
+      "artist": "Lykke Li",
+      "has_synced": false,
+      "path": "select/06_Sadness_Is_a_Blessing_Lykke_Li.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Sadness is a blessing",
+      "artist": "Lykke Li",
+      "has_synced": true,
+      "path": "select/07_Sadness_is_a_blessing_Lykke_Li.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Blessing It (feat. Substantial & Pase Rock) [Remix]",
+      "artist": "Nujabes",
+      "has_synced": true,
+      "path": "select/08_Blessing_It_(feat._Substantial_&_Pase_Rock)_[Remix]_Nujabes.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Blessing It (remix)",
+      "artist": "Nujabes feat. Substantial & Pase Rock",
+      "has_synced": true,
+      "path": "select/09_Blessing_It_(remix)_Nujabes_feat._Substantial_&_Pase_Rock.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Blessing",
+      "artist": "Alex G",
+      "has_synced": true,
+      "path": "select/10_Blessing_Alex_G.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Blessing It (remix) (feat. Substantial & Pase Rock)",
+      "artist": "Nujabes",
+      "has_synced": true,
+      "path": "select/11_Blessing_It_(remix)_(feat._Substantial_&_Pase_Rock)_Nujabes.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Blessing In Disguise",
+      "artist": "Bryan Adams",
+      "has_synced": true,
+      "path": "select/12_Blessing_In_Disguise_Bryan_Adams.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Blessing In Disguise (bonus track)",
+      "artist": "Bryan Adams",
+      "has_synced": true,
+      "path": "select/13_Blessing_In_Disguise_(bonus_track)_Bryan_Adams.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "The Blessing",
+      "artist": "YOASOBI",
+      "has_synced": true,
+      "path": "select/14_The_Blessing_YOASOBI.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Blessing It (Remix)",
+      "artist": "Nujabes",
+      "has_synced": true,
+      "path": "select/15_Blessing_It_(Remix)_Nujabes.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Blessing With a Curse",
+      "artist": "Miss May I",
+      "has_synced": false,
+      "path": "select/16_Blessing_With_a_Curse_Miss_May_I.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "The Blessing and the Curse",
+      "artist": "Phinehas",
+      "has_synced": true,
+      "path": "select/17_The_Blessing_and_the_Curse_Phinehas.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Blessing",
+      "artist": "Omoinotake",
+      "has_synced": false,
+      "path": "select/pl_01_Blessing_Omoinotake.txt"
+    }
+  ]
+}
